@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\bin\Debug\net6.0\compareNumbers.exe
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\bin\Debug\net6.0\compareNumbers.deps.json
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\bin\Debug\net6.0\compareNumbers.runtimeconfig.json
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\bin\Debug\net6.0\compareNumbers.dll
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\bin\Debug\net6.0\compareNumbers.pdb
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.dll
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\refint\compareNumbers.dll
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.pdb
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\compareNumbers.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\compareNumbers\compareNumbers\obj\Debug\net6.0\ref\compareNumbers.dll
